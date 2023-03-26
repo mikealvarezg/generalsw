@@ -15,9 +15,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.globalmentor</groupId>
-            <artifactId>hadoop-bare-naked-local-fs</artifactId>
-            <version>0.1.0</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.32</version>
         </dependency>
     </dependencies>
     <properties>
